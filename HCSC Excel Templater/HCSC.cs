@@ -339,6 +339,7 @@ namespace HCSC_Excel_Templater
                     report.Worksheet(quarterData.Key).Cell(2, 1).Value = hospital.Key + ' ' + hospital.Value;
                 }
 
+                output = output[output.Length - 1] == '\\' ? output.Substring(0, output.Length - 1) : output;
                 String outputPath = output + "\\output\\" + type;
                 if (!Directory.Exists(outputPath))
                 {
