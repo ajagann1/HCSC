@@ -1,0 +1,34 @@
+C:\Repository\HCSC\HCSC Excel Templater\HCSC Excel Templater\bin\Debug\HCSC Excel Templater.exe.config
+C:\Repository\HCSC\HCSC Excel Templater\HCSC Excel Templater\bin\Debug\HCSC Excel Templater.exe
+C:\Repository\HCSC\HCSC Excel Templater\HCSC Excel Templater\bin\Debug\HCSC Excel Templater.pdb
+C:\Repository\HCSC\HCSC Excel Templater\HCSC Excel Templater\bin\Debug\ClosedXML.dll
+C:\Repository\HCSC\HCSC Excel Templater\HCSC Excel Templater\bin\Debug\CommandLine.dll
+C:\Repository\HCSC\HCSC Excel Templater\HCSC Excel Templater\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Repository\HCSC\HCSC Excel Templater\HCSC Excel Templater\bin\Debug\FastMember.Signed.dll
+C:\Repository\HCSC\HCSC Excel Templater\HCSC Excel Templater\bin\Debug\ClosedXML.xml
+C:\Repository\HCSC\HCSC Excel Templater\HCSC Excel Templater\bin\Debug\CommandLine.xml
+C:\Repository\HCSC\HCSC Excel Templater\HCSC Excel Templater\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Repository\HCSC\HCSC Excel Templater\HCSC Excel Templater\obj\Debug\HCSC Excel Templater.csprojResolveAssemblyReference.cache
+C:\Repository\HCSC\HCSC Excel Templater\HCSC Excel Templater\obj\Debug\HCSC Excel Templater.exe
+C:\Repository\HCSC\HCSC Excel Templater\HCSC Excel Templater\obj\Debug\HCSC Excel Templater.pdb
+C:\Repository\HCSC\HCSC Excel Templater\HCSC Excel Templater\bin\Debug\HCSC Excel Templater.exe.manifest
+C:\Repository\HCSC\HCSC Excel Templater\HCSC Excel Templater\bin\Debug\HCSC Excel Templater.application
+C:\Repository\HCSC\HCSC Excel Templater\HCSC Excel Templater\obj\Debug\HCSC Excel Templater.exe.manifest
+C:\Repository\HCSC\HCSC Excel Templater\HCSC Excel Templater\obj\Debug\HCSC Excel Templater.application
+C:\Repository\HCSC\HCSC Excel Templater\bin\Debug\HCSC Excel Templater.exe.config
+C:\Repository\HCSC\HCSC Excel Templater\bin\Debug\HCSC Excel Templater.exe.manifest
+C:\Repository\HCSC\HCSC Excel Templater\bin\Debug\HCSC Excel Templater.application
+C:\Repository\HCSC\HCSC Excel Templater\bin\Debug\HCSC Excel Templater.exe
+C:\Repository\HCSC\HCSC Excel Templater\bin\Debug\HCSC Excel Templater.pdb
+C:\Repository\HCSC\HCSC Excel Templater\bin\Debug\ClosedXML.dll
+C:\Repository\HCSC\HCSC Excel Templater\bin\Debug\CommandLine.dll
+C:\Repository\HCSC\HCSC Excel Templater\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Repository\HCSC\HCSC Excel Templater\bin\Debug\FastMember.Signed.dll
+C:\Repository\HCSC\HCSC Excel Templater\bin\Debug\ClosedXML.xml
+C:\Repository\HCSC\HCSC Excel Templater\bin\Debug\CommandLine.xml
+C:\Repository\HCSC\HCSC Excel Templater\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Repository\HCSC\HCSC Excel Templater\obj\Debug\HCSC Excel Templater.csprojResolveAssemblyReference.cache
+C:\Repository\HCSC\HCSC Excel Templater\obj\Debug\HCSC Excel Templater.exe.manifest
+C:\Repository\HCSC\HCSC Excel Templater\obj\Debug\HCSC Excel Templater.application
+C:\Repository\HCSC\HCSC Excel Templater\obj\Debug\HCSC Excel Templater.exe
+C:\Repository\HCSC\HCSC Excel Templater\obj\Debug\HCSC Excel Templater.pdb
