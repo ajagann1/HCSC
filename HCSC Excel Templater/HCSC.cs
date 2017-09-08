@@ -64,7 +64,7 @@ namespace HCSC_Excel_Templater
                 var stateCodes = new XLWorkbook(options.stateCodesPath);
                 var hospitalList = new XLWorkbook(options.HospitalList);
                 var dataTemplates = new XLWorkbook();
-                String outputPath = options.OutputPath != null && options.OutputPath != "" ? options.OutputPath : "";
+                String outputPath = options.OutputPath != null && options.OutputPath != "" ? options.OutputPath : ".";
                 String cautiInputPath = options.CautiInputPath != null && options.CautiInputPath != "" ? options.CautiInputPath : "";
                 String clabsiInputPath = options.ClabsiInputPath != null && options.ClabsiInputPath != "" ? options.ClabsiInputPath : "";
                 String cdiInputPath = options.CdiInputPath != null && options.CdiInputPath != "" ? options.CdiInputPath : "";
