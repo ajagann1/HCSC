@@ -90,6 +90,10 @@ namespace HCSC_Excel_Templater
                 while (cellVal.ToLower().IndexOf("clabsi") == -1 && cellVal.ToLower().IndexOf("cauti") == -1 && cellVal.ToLower().IndexOf("cdi") == -1)
                 {
                     row = row.RowBelow();
+                    if (row.IsEmpty())
+                    {
+                        throw new Exception("Template not formatted correctly");
+                    }
                     cellVal = row.Cell(1).Value.ToString();
                 }
 
