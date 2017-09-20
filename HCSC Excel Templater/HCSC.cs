@@ -26,7 +26,7 @@ namespace HCSC_Excel_Templater
             public string cdiTemplatePath { get; set; }
 
             [Option('c', "crosswalk", Required = true,
-                HelpText = "The filepath of the CLABSI/CAUTI/CDI template to be converted to.")]
+                HelpText = "The filepath of the CLABSI/CAUTI/CDI crosswalk file that indicates which piece of data corresponds to the data to be inputted into the template.")]
             public string crosswalkPath { get; set; }
 
             [Option('s', "stateCodes", Required = true,
@@ -460,7 +460,7 @@ namespace HCSC_Excel_Templater
                                 int natLoc = Array.IndexOf(natHeaders, header);
 
                                 //Populate row
-                                row.Cell(3).Value = loc != -1 ? linePieces[loc] : (stateLoc != -1 ? stateLineData[stateLoc] : (natLoc != -1 ? natInfo[natLoc] : ""));
+                                row.Cell(3).Value = loc != -1 ? linePieces[loc] : (stateLoc != -1 ? stateLineData[stateLoc] : (natLoc != -1 ? natInfo[natLoc] : "--"));
 
                                 //Go to next row
                                 row = row.RowBelow();
