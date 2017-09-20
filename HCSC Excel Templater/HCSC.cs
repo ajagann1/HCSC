@@ -11,7 +11,6 @@ using CommandLine.Text;
 
 namespace HCSC_Excel_Templater
 {
-    //This has to be the hackiest, laziest, piece of crap I've put together in a while.
     class HCSC
     {
         //Acts the same way yargs does in javascript
